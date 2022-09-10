@@ -13,3 +13,5 @@ const login  = (email, password) => {
     } 
     return false
 }
+
+exports.login = login
